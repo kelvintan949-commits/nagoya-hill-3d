@@ -1,4 +1,4 @@
-const CACHE = 'nagoya-hill-3d-2.1.1';
+const CACHE = 'nagoya-hill-3d-2.1.2';
 const ASSETS = ['./', './index.html', './app.js', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png',
   './icons/icon-maskable-512.png', './icons/apple-touch-icon.png'];
 // 'reload' skips the HTTP cache, so a new version never stores the previous version's files
